@@ -1,0 +1,620 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 04:14:34] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data not found with ID: 200
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 04:14:34] "[33mGET /people/200 HTTP/1.1[0m" 404 -
+INFO:swapiDevApplication:Planet data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 04:14:34] "GET /planets/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:Planet data not found with ID: 200
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 04:14:34] "[33mGET /planets/200 HTTP/1.1[0m" 404 -
+INFO:swapiDevApplication:Planet data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 04:14:34] "GET /starships/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:Planet data not found with ID: 200
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 04:14:34] "[33mGET /starships/200 HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug: * Detected change in 'D:\\Python_Assignment\\performanceSuite\\performanceTestSuite.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:24] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:25] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:25] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:25] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:26] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:29] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:30] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:32] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:33] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:33] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:34] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:34] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:37] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:37] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:38] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:40] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:41] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:41] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:41] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:43] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:43] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:44] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:46] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:47] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:47] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:48] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:50] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:50] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:51] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:52] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:54] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:55] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:57] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:58] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:40:58] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:00] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:01] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:02] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:02] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:04] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:04] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:06] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:07] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:07] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:08] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:08] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:10] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:15] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:20] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:21] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:21] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:22] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:41:22] "GET /people/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:00] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:04] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:04] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:05] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:07] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:07] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:09] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:09] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:10] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:11] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:11] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:17] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:18] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:20] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:20] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:21] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:25] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:25] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:27] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:27] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:27] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:29] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:30] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:32] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:32] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:33] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:34] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:34] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:35] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:35] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:36] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:38] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:38] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:40] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:40] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:42] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:43] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:44] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:47] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:47] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:47] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:48] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:50] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:51] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:52] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:53] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:54] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:54] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:54] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:55] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:57] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:58] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:59] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:47:59] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:02] "GET /people/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:53] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:53] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:56] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:57] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:58] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:48:59] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:00] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:00] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:00] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:01] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:01] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:04] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:05] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:07] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:08] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:09] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:10] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:10] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:11] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:11] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:20] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:23] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:23] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:23] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:24] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:24] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:25] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:27] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:28] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:29] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:29] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:32] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:33] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:33] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:34] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:35] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:36] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:36] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:39] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:40] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:40] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:41] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:42] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:42] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:43] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:45] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:46] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:47] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:48] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:49] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:49] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:50] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:49:51] "GET /people/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:59:13] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:59:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:59:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:59:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:59:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 06:59:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.0.42:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 742-714-476
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:01:58] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:00] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:02] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:02] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:03] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:03] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:05] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:05] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:06] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:09] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:10] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:11] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:12] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:14] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:15] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:16] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:18] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:18] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:19] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:21] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:21] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:23] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:24] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:24] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:24] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:26] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:28] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:28] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:30] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:30] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:31] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:32] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:33] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:35] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:35] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:35] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:37] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:38] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:38] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:39] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:42] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:42] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:42] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:44] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:44] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:45] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:48] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:49] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:50] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:51] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:52] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:52] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:53] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:55] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:55] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:56] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:57] "GET /people/1 HTTP/1.1" 200 -
+INFO:swapiDevApplication:People data found with ID: 1
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 07:02:59] "GET /people/1 HTTP/1.1" 200 -
